@@ -1,0 +1,5 @@
+packages
+TileGameSocket/bin
+TileGameSocket/obj
+*.config
+TileGameSocket/Properties
