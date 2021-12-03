@@ -1,2 +1,3 @@
 # TileGameServer
-A WebSocketSharp-based server to generate worlds and relay information between clients of a Python game.
+
+This is a WebSocketSharp server created to enable multiplayer in a Python game named "TileGame" that was created for a school project. This code was mostly written in a single day so it may be unoptimized or unorganized.
